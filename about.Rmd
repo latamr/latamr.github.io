@@ -1,0 +1,34 @@
+---
+title: "Envia tu evento a LatamR"
+description: |
+  LatamR es una list de eventos sobre datos y el lenguaje de programación R
+  en la región Latinoamericana. Si quieres anunciar un evento aqui puedes 
+  abrir un tiquete en github.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Buscamos reunir una lista de eventos sobre R y ciencia de datos en la región
+latinoamericana. Sabes de algun evento? Abre un tiquete aqui en github con los
+detalles.
+
+ - Titulo:
+ - URL principal: 
+ - Descripción breve:
+ - Descripción larga:
+ - URL a una imagen descriptiva:
+ 
+ Con esto lo añadimos tan pronto podemos!
+ 
+ <b>Cambios y correcciones</b>
+ 
+Toda la información reunida aqui es el fruto de colaboración en la comunidad R en LATAM. Si vez a tu evento y quieres hacer una corrección, o mejora aún, puedes y quieres contribuir más detalles (por ejemplo en la descripción) por favor contactanos.
+
+ <b>Para organizadores</b>
+
+Si eres el organizador de un evento puedes pasarnos no solamente los datos principales del evento, pero tambien escribir una pagina completa describiendo el evento. Usamos [Radix para R Markdown](https://rstudio.github.io/radix) para generar esta lista, y si puedes escribir tu contribución de una vez en ese formato, lo podemos incluir facilmente. 
+
+De otra forma no dudes en simplemente pasar el contenido en un tiquete y pronto alguien lo incluirá en el formato requerido.
+

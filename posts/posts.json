@@ -1,0 +1,59 @@
+[
+  {
+    "path": "posts/2019-02-03-latinr-2019/",
+    "title": "LatinR 2019",
+    "description": "Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo 25 al 27 de septiembre 2019",
+    "author": [
+      {
+        "name": "LatinR",
+        "url": "http://latin-r.com"
+      }
+    ],
+    "date": "2019-09-25",
+    "categories": [
+      "Conferencia",
+      "R",
+      "Chile"
+    ],
+    "preview": "https://pbs.twimg.com/profile_images/946491642084773888/1bxpJg-v_400x400.jpg",
+    "last_modified": "2019-02-03T15:58:11-06:00"
+  },
+  {
+    "path": "posts/2019-02-03-aprendizaje-automtico-con-r-modelos-de-clusterizacin/",
+    "title": "Aprendizaje Automático con R - Modelos de Clusterización",
+    "description": "Webinario Datalatam Febrero 2019 - La segmentación es una tarea de Aprendizaje Automático no supervisado que de forma automática divide la data en grupos de elementos similares, utilizada principalmente con el objetivo de descubrir nueva información en áreas como Finanzas, Mercadeo, monitoreo de redes sociales e incluso el diagnóstico de enfermedades.",
+    "author": [
+      {
+        "name": "DataLatam",
+        "url": {}
+      }
+    ],
+    "date": "2019-02-28",
+    "categories": [
+      "Webinario",
+      "En linea",
+      "R"
+    ],
+    "preview": "https://secure.meetupstatic.com/photos/event/1/6/4/4/600_475805700.jpeg",
+    "last_modified": "2019-02-03T16:19:44-06:00"
+  },
+  {
+    "path": "posts/2019-02-03-introduccin-a-ciencia-de-datos-con-r/",
+    "title": "Introducción a ciencia de datos con R",
+    "description": "El Capitulo de PASS y la Universidad Francisco Gavidia, te invita a que\nparticipes completamente gratis a una serie de conferencias orientadas a\nCiencia de datos.",
+    "author": [
+      {
+        "name": "Capitulo de PASS y la Universidad Francisco Gavidia",
+        "url": "http://www.elrincondesqlserver.com"
+      }
+    ],
+    "date": "2019-02-09",
+    "categories": [
+      "Curso",
+      "R",
+      "El Salvador"
+    ],
+    "preview": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F55919112%2F81366791281%2F1%2Foriginal.20190129-194257?h=230&w=460&auto=compress&rect=0%2C130%2C528%2C264&s=64ec40c2eb6cfd7fba8987c91ff6e089",
+    "last_modified": "2019-02-03T15:58:14-06:00"
+  }
+]

@@ -1,0 +1,27 @@
+---
+title: "LatinR 2019"
+description: |
+  Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo 25 al 27 de septiembre 2019 
+author:
+  - name: LatinR
+    url: http://latin-r.com
+date: 09-25-2019
+preview: https://pbs.twimg.com/profile_images/946491642084773888/1bxpJg-v_400x400.jpg
+categories: 
+  - Conferencia
+  - R
+  - Chile
+twitter:
+  site: "@latam_R"
+  creator: "@LatinR_Conf"
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Detalles por anunciar
+

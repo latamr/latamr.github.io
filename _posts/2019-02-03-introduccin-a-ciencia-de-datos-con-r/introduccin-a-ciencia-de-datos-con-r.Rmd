@@ -1,0 +1,29 @@
+---
+title: "Introducción a ciencia de datos con R"
+description: |
+  El Capitulo de PASS y la Universidad Francisco Gavidia, te invita a que
+  participes completamente gratis a una serie de conferencias orientadas a
+  Ciencia de datos.
+author:
+  - name: Capitulo de PASS y la Universidad Francisco Gavidia
+    url: http://www.elrincondesqlserver.com
+date: 02-09-2019
+preview: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F55919112%2F81366791281%2F1%2Foriginal.20190129-194257?h=230&w=460&auto=compress&rect=0%2C130%2C528%2C264&s=64ec40c2eb6cfd7fba8987c91ff6e089
+categories: 
+  - Curso
+  - R
+  - El Salvador
+twitter:
+  site: "@latam_R"
+  creator: ""
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Dirección para [información de registro](https://www.eventbrite.com/e/introduccion-a-ciencia-de-datos-con-r-tickets-55596119490)

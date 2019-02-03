@@ -1,0 +1,32 @@
+---
+title: "Aprendizaje Automático con R - Modelos de Clusterización"
+description: |
+  Webinario Datalatam Febrero 2019 - La segmentación es una tarea de Aprendizaje Automático no supervisado que de forma automática divide la data en grupos de elementos similares, utilizada principalmente con el objetivo de descubrir nueva información en áreas como Finanzas, Mercadeo, monitoreo de redes sociales e incluso el diagnóstico de enfermedades.
+author:
+  - name: DataLatam
+    affiliation_url: https://www.datalatam.com
+preview: https://secure.meetupstatic.com/photos/event/1/6/4/4/600_475805700.jpeg
+categories: 
+  - Webinario
+  - En linea
+  - R
+date: 02-28-2019
+twitter:
+  site: "@latam_R"
+  creator: "@datalatam"
+output:
+  radix::radix_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+La segmentación es una tarea de Aprendizaje Automático no supervisado que de forma automática divide la data en grupos de elementos similares, utilizada principalmente con el objetivo de descubrir nueva información en áreas como Finanzas, Mercadeo, monitoreo de redes sociales e incluso el diagnóstico de enfermedades. Veremos las ventajas de trabajar estos modelos con R vs alternativas de software de pago y las principales consideraciones que se deben tener en cuenta.
+
+El presentador de hoy es Eugenio Grant, Ingeniero Industrial & Data Scientist. Python User, Big Data y R Enthusiast. Eugenio tiene 14 años de experiencia en la industria de la Investigación de Mercados como Director de Proyectos.
+
+Organizamos los webinarios de Data latam en linea  para que puedas participar desde donde estés en Latinoamerica. Cada último viernes del més tenemos uno nuevo, y publicamos las grabaciones en linea 
+
+

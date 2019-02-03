@@ -1,0 +1,5 @@
+---
+title: "LatamR - Agenda eventos R y ciencia de datos LATAM"
+site: radix::radix_website
+listing: posts
+---

@@ -1,0 +1,12 @@
+name: "."
+title: "LatamR"
+description: |
+  LatamR - Lista de eventos sobre R y Ciencia de Datos en LATAM
+output_dir: "."
+navbar:
+  right:
+    - text: "Lista eventos"
+      href: index.html
+    - text: "¡Incluye un evento!"
+      href: about.html
+output: radix::radix_article
